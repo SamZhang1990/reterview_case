@@ -16,6 +16,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>stringremove</module>
+        <module>fizzbuzzbasic</module>
     </modules>
 
     <properties>
