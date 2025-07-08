@@ -18,6 +18,7 @@
         <module>stringremove</module>
         <module>fizzbuzzbasic</module>
         <module>factorypattern</module>
+        <module>chainpattern</module>
     </modules>
 
     <properties>
