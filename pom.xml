@@ -19,6 +19,7 @@
         <module>fizzbuzzbasic</module>
         <module>factorypattern</module>
         <module>chainpattern</module>
+        <module>multithread</module>
     </modules>
 
     <properties>
